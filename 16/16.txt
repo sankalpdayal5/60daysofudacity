@@ -1,0 +1,23 @@
+*Day 16*:
+
+:heavy_check_mark: Formed group for #sg_cognitive-learners  including @Sankalp Dayal @Archit @Calincan Mircea Ioan
+*Beginner - Hotdog or not:* It is a simple image classification task where we need to classify from an image whether it contains hotdog or not. :hotdog:
+*Resource:* https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog/data
+
+:heavy_check_mark: Discussed about the project of Hogdog classification. Will start coding soon. :slightly_smiling_face:
+
+:heavy_check_mark: Read some articles to get overview of the first project of #sg_applied_dl
+*Titanic* https://www.kaggle.com/c/titanic: :ship:
+
+:heavy_check_mark: Attended the AMA of today early midnight. :slightly_smiling_face:
+
+:heavy_check_mark:
+Few people who are super active on slack and always ready to help others. I also want to motivate them.
+@Labiba @sourav kumar @Mika  @Maria  @Aren Stark  @Vipul Aggarwal  @Sourav  @Bharati Subramanian  @Anshu Trivedi  @Ayush Jain @George Christopoulos, @Aleksandra Deis, @Archit, @Taimur Zahid, @Tracy Adams, @EPR, @Frida, @Halwai Aftab Hasan, @Stark, @Varez.W @Manisha @Shashi Gharti @Anna Scott @Aniket Mitra @Pablo Carmona - Zuluaga @Helena Barmer @Ivy @Erika Yoon @Juan Carlos Kuri Pinto  @Soumya Nasipuri @Vivank Sharma @Amina Assouane @Apoorv Agnihotri @PRAXS @Ashish Shrivastava @Oudarjya Sen Sarma @Mayank Devnani @Anish Pandey @Sushil Ghimire @Mohona @barabash @annaSWE @Sarah Majors @Evi @Ana @Shahana @Vigneshwari @Munira Omar @Fustincho
+
+Thanks for being super active and tagging others to participate actively.  :slightly_smiling_face:. All the best to all. Happy learning :slightly_smiling_face:.
+Be motivated :slightly_smiling_face: I not only motivate others but motivating others also makes me happy and motivated. :slightly_smiling_face:
+
+
+Huge shoutout to all those who are also on Day 16. :slightly_smiling_face: 
+
