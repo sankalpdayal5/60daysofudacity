@@ -1,0 +1,5 @@
+Day 1:
+1. Pledge taken :heavy_check_mark:
+2. Completed Lesson 2 of "Intro to Deep Learning with PyTorch"
+3. Continued Lesson 1 of Challenge course
+4. Motivated @labknr98 @garg4.ag

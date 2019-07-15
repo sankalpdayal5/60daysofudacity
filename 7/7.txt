@@ -1,0 +1,12 @@
+Day 7:
+:heavy_check_mark: Working on lesson 5 (CNN) of ud188 (Intro to Deep Learning with PyTorch)
+:heavy_check_mark: Watched some earlier videos to clear some doubts
+:heavy_check_mark: Checked some blogs and articles about CNN. One of them was - https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/
+:heavy_check_mark: Checked calendar and noted some important events that I will be participating. Link - https://sites.google.com/udacity.com/secureprivateai-challenge/calendar?authuser=0
+
+:good-luck: Few people who are super active on slack and always ready to help others. Huge thanks to -
+:congrats: @labknr98@sauravkumarsct@mikaelaysanchez@mary.romanenko@atulawasthi1299@vipul.captureart@adventuroussrv@bharati.frnds@anshutrivedik@ayushjain.te15@george.christ1987, @lexie, @garg4.ag, @taz.taimur, @tracyeadams, @preriec, @fridarode00, @ahkhalwai55, @ash3ax, @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997@rumanubhardwaj
+Thanks for being super active and tagging others to participate actively :slightly_smiling_face:. All the best. :slightly_smiling_face:
+Be motivated :slightly_smiling_face:
+
+Special shoutout to those who have completed Day 7 today. Cheers . Happy Learning :slightly_smiling_face:
