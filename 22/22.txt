@@ -1,0 +1,13 @@
+Day 22:
+:heavy_check_mark: Updated repo on github for 60 days of udacity(#60daysofudacity)  channel
+Link - https://github.com/sankalpdayal5/60daysofudacity
+:heavy_check_mark:  Attended Virtual Meetup with the reading papers club( #reading_paper_discuss ) (@Abhishek Tandon@Ingus Terbets@Sarah Majors@Sayed Maheen Basheer@Nicolas Araque @Sankalp Dayal@Nirupama Singh @Droid) where we discussed the paper on Generative Adversarial Networks and got to learn a lot from the implementations
+:heavy_check_mark:  Watched week 1 videos and gave 1st quiz of week1 on data science course
+Link - https://www.coursera.org/learn/what-is-datascience/home/welcome
+This is a part of the specialization by IBM
+:heavy_check_mark:
+Few people who are super active on slack and always ready to help others. I also want to motivate them. :slightly_smiling_face:
+@Labiba @sourav kumar @Mika  @Maria  @Aren Stark  @Vipul Aggarwal  @Sourav  @Bharati Subramanian  @Anshu Trivedi  @Ayush Jain @George Christopoulos, @Aleksandra Deis, @Archit, @Taimur Zahid, @Tracy Adams, @EPR, @Frida, @Halwai Aftab Hasan, @Stark, @Varez.W @Manisha @Shashi Gharti @Anna Scott @Aniket Thomas @Pablo Carmona - Zuluaga@Helena Barmer @Ivy @Erika Yoon @Juan Carlos Kuri Pinto  @Soumya Nasipuri @Vivank Sharma @Amina Assouane @Apoorv Agnihotri @PRAXS @Stark @Oudarjya Sen Sarma@Mayank Devnani @Anish Pandey @Sushil Ghimire @Mohona @barabash @annaSWE @Sarah Majors @Evi @Ana @Shahana @Vigneshwari @Munira Omar @Fustincho @Aisha Javed@Sajjad Manal @Pranjal Chaubey @Joanna Gon
+Thanks for being super active and tagging others to participate actively.  :slightly_smiling_face:. All the best to all. Happy learning :slightly_smiling_face:.
+Be motivated :slightly_smiling_face: I not only motivate others but motivating others also makes me happy and motivated. :slightly_smiling_face:
+Huge shoutout to all those who are also on Day 22. :slightly_smiling_face:
