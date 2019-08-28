@@ -1,0 +1,26 @@
+*Day 54*:
+Countdown begins - 6 more days to go  :alert:
+
+:heavy_check_mark: Updated repo on github for 60 days of udacity(#60daysofudacity)  channel :slightly_smiling_face: Link - https://github.com/sankalpdayal5/60daysofudacity
+Also added the images for all days. Its more easy to see and evaluate. Link - https://github.com/sankalpdayal5/60daysofudacity/blob/master/IMAGES.md
+Do check out. All suggestions are appreciated. :slightly_smiling_face:
+
+:heavy_check_mark: Finalised the #sg_pytorch-robotics project and submitted by @Helena Barmer for project showcase :slightly_smiling_face: 
+Link - https://github.com/shashigharti/federated-learning-on-raspberry-pi
+
+:heavy_check_mark:Finalised X_Ray project. Some minor work left :slightly_smiling_face:
+Along with @Shudipto Trafder @Vebby
+
+:heavy_check_mark: Was busy with my exams. Sat for placement exams for my internship :slightly_smiling_face: 
+
+:heavy_check_mark: Watched some random tech videos in the field of secured AI :slightly_smiling_face: 
+
+:heavy_check_mark:
+Some people who are super active on slack and always ready to help others. I also want to motivate them. :slightly_smiling_face:
+
+@Mika @Ayush Jain @Taimur Zahid @Pablo Carmona - Zuluaga @Vivank Sharma @Anish Pandey @Ana @Mohona @Ellyana Linden@Ayesha Manzur @Labiba @Maria @Aren Stark @Vipul Aggarwal@Sourav@Bharati Subramanian @Anshu Trivedi@Aleksandra Deis@EPR @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Ivy @Juan Carlos Kuri Pinto @Soumya Nasipuri@Apoorv Agnihotri@PRAXS@Ashish Shrivastava @Oudarjya Sen Sarma @Mayank Devnani @barabash @annaSWE @Sarah Majors@Evi@Shahana@Munira Omar @Fustincho @Aisha Javed @Sajjad Manal @Pranjal Chaubey @Joanna Gon@Govind Dixit@Andzelika Balyseviene@Ishan Arora @sourav kumar @George Christopoulos @Archit @Tracy Adams @Frida @Halwai Aftab Hasan@Stark@Anna Scott@Helena Barmer@Erika Yoon@Amina Assouane @Sushil Ghimire@Vigneshwari@PaulBruce@Sayali_Kutwal@Nirupama Singh@Siddharth Srivastava @Jess @Seeratpal K. Jaura@Olivia@LauraT@Arunn @Andy@Karan Kishinani@Dammy@Berenice@Samuela Anastasi @Sabrina @erinSnPAI @Shivam Raisharma@Elena Kutanov@Khush @Urvi Soni@K.S. @Arka@Hung@Bearbear @Mariia Denysenko @Akshay Rajmohan@José Fonceca@Mubashir@Aniket Thomas@akshu18@Rumanu@S.c@ayivima @Deasy Indrawati @Alexander Villasoto @Madison Estabrook (DL, FE, USA)  @Sayed Maheen Basheer@Anju Mercian@Mahedi @Droid @Yujin @Dishin Goyani @nesreensada @happycoder354 @Qurat Ul Ain Fatima@Apoorva Patil@Tumi@Akash Antony @Rana Tallal  @Abhishek Tandon @Abhishek Lalwani@crazylazylife @Nazmul@Krishna Chari@James Korge@Kapil Chandorikar @Carlo David @Agata [OR, USA] @Marwa @Prateek Thakare @Aakanksha Dhurandhar@Hitoishi Das@risper bevalyn@Julie Fang@susyjam @Ricardo Pretelt @Alejandro Galindo @Aditya kumar @Joyce Obi@Joy Poddar@Arka@Kholoud Hemmat@Poornima Venkatraman @Ingus Terbets @Victor Cabrejos@Irene0000 @Heather A@Susanne Brockmann@David Ashraf@EA Sara@José Fonceca  @Mahak Bansal  @Samrat Pyaraka @Antonio @iso. @cibaca @Jaiki Yadav@Aditya Rakhecha @Deepak@Nikita Sukhwal @Gabriela Urquieta@Ziad Esam Ezat @Biswajit Banerjee @Akshay Pal @Artur Freitas Gonçalves  @Jinyi Tan @Yemi@Ankit Vashisht @Aisha Khatun @THIYAGARAJAN R @Rajib Mondal @Erin Hu@Mateusz@Krunal@Ronit
+
+Thanks for being super active and tagging others to participate actively.  :slightly_smiling_face:. All the best to all. Happy learning :slightly_smiling_face:.
+Be motivated :slightly_smiling_face: I not only motivate others but motivating others also makes me happy and motivated. :slightly_smiling_face:
+
+Huge shoutout to all those who are also on Day 54. :slightly_smiling_face:
